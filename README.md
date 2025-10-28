@@ -3,7 +3,7 @@
 This is a demo for git and github class.
 
 # Teacher 
-Shreya Shinde
+Shreya Shinde.
 
 #Student 
 Delta Student
